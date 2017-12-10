@@ -16,9 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".MyListViewActivity" />
-        <activity android:name=".MyRecyclerViewActivity" />
-        <activity android:name=".DetailViewActivity"></activity>
+        <activity android:name=".AnimalCategoryListViewActivity" />
+        <activity android:name=".AnimalRecyclerViewActivity" />
     </application>
 
 </manifest>
